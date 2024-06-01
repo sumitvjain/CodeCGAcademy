@@ -1,1 +1,1 @@
-globals
+    # print(f.read(10))
